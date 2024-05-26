@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.input-form-container {
+  align-self: center;
+}
+.para {
+  align-self: center;
+}
+.ancor-text {
+  align-self: center;
+}
+.line {
+  align-self: center;
+}
+.un-ordered-list {
+}
